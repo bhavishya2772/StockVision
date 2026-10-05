@@ -172,5 +172,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 Built with ❤️ using **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **Yahoo Finance**
 
 </div>
-#   S t o c k V i s i o n  
- 
+#
